@@ -1,2 +1,2 @@
 # Credit-Card-Fraud-Detection-Analysis
-This is to determine the gap of hours having issues of credit fraud detection
+This dataset contains 100,000 real-world-style credit card transactions spanning the full calendar year 2024, with 43 features covering transaction details, customer profiles, velocity signals, risk indicators, device and channel information, and account behaviour. Every distribution, fraud rate, and risk signal relationship is calibrated against published industry research from the Federal Reserve, Nilson Report, FICO, and the European Central Bank.
